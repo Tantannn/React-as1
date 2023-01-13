@@ -1,0 +1,28 @@
+input[type=text], [type='date'] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    width: 28%;
+    display: inline;
+
+}
+#search {
+    background-color: blue;
+    border: none;
+    color: aliceblue;
+    padding: 7px;
+    margin-top: 9px;
+    font-size: 17px;
+    cursor: pointer;
+    display: inline;
+    margin-top: 50px;
+}
+
+
+.distant {
+    padding-top: 30px;
+}
+
+.bas{
+    padding-bottom: 20px;
+}

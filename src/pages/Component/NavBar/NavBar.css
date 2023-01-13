@@ -1,0 +1,22 @@
+.asd {
+    width: 10%;
+    display: flex;
+    margin-top: 20px;
+}
+
+.nav-bar{
+    /* width: 120px; */
+    /* list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 3px; */
+    justify-content: space-around;
+    border-radius: 25px;
+    border: 2px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+
+    clear: both;
+    display: inline-block;
+    white-space: nowrap;
+}
